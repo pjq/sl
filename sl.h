@@ -47,12 +47,12 @@
 
 #define D51DEL   "                                                      "
 
-#define COAL01 "                              "
+#define COAL01 "     Happy New Year 2018      "
 #define COAL02 "                              "
 #define COAL03 "    _________________         "
-#define COAL04 "   _|                \\_____A  "
+#define COAL04 "   _|                \\____A  "
 #define COAL05 " =|                        |  "
-#define COAL06 " -|                        |  "
+#define COAL06 " -|SuccessFactors Mobile SH|  "
 #define COAL07 "__|________________________|_ "
 #define COAL08 "|__________________________|_ "
 #define COAL09 "   |_D__D__D_|  |_D__D__D_|   "
@@ -97,7 +97,7 @@
 
 #define LCAR1  "____________________ "
 #define LCAR2  "|  ___ ___ ___ ___ | "
-#define LCAR3  "|  |_| |_| |_| |_| | "
+#define LCAR3  "|  | | | | | | | | | "
 #define LCAR4  "|__________________| "
 #define LCAR5  "|__________________| "
 #define LCAR6  "   (O)        (O)    "

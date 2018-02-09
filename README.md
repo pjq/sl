@@ -8,3 +8,5 @@ all.
 Copyright 1993,1998,2014 Toyoda Masashi (mtoyoda@acm.org)
 
 ![](demo.gif)
+
+![](successfactors.gif)

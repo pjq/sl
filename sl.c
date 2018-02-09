@@ -43,6 +43,7 @@
 #include <unistd.h>
 #include "sl.h"
 
+int run(int argc, char *argv[]);
 void add_smoke(int y, int x);
 void add_man(int y, int x);
 int add_C51(int x);
@@ -82,6 +83,14 @@ void option(char *str)
 
 int main(int argc, char *argv[])
 {
+    for (int i =0; i < 5; i++) {
+        run(argc, argv);
+    } 
+
+    return 0;
+}
+
+int run(int argc, char *argv[]) {
     int x, i;
 
     for (i = 1; i < argc; ++i) {
